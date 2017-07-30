@@ -1,4 +1,4 @@
-# Python Notes
+# Basic Notes
 
 [TOC]
 
