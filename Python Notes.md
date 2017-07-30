@@ -1,6 +1,6 @@
 # Basic Notes
 
-[TOC]
+[baidu](http://www.baidu.com) 
 
 ## (一) 基本数据类型和操作符
 
